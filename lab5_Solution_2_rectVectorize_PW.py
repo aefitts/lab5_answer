@@ -3,7 +3,7 @@ Author: Phil White
 Date: 3/23/22
 A partial solution to lab 5. Note: this script uses a 
 vectorization approach toward the moving window, but 
-I couldn't quite get it for a circular kernel. Fast though! 
+It is fast though! 
 *********************************************'''
 import time
 ti = time.time()
